@@ -26,3 +26,16 @@ No additional hardware or software is needed besides the default Google Colab ru
 
 The Google Colab default runtime is called the "Python 3 Google Compute Engine backend" and has 12.7 GB system RAM and 107.7 GB disk available for free.
 
+## Python module dependency versions
+
+- numpy: 1.23.5
+- matplotlib: 3.7.1
+- google.colab: 0.0.1a2
+- textdescriptives: 2.7.1
+- spacytextblob: 4.0.0
+- pandas: 1.5.3
+- requests: 2.31.0
+- spacy: 3.6.1
+- wordcloud: 1.9.3
+- sklearn: 1.2.2
+- gensim: 4.3.2
