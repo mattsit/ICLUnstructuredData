@@ -1,4 +1,4 @@
-# Topic modeling on earnings calls transcripts from big tech from 2020-2023
+# Topic modeling on earnings calls transcripts from big tech 2020-2023
 MLDS @ ICL Unstructured Data course final project
 
 Matthew Sit, CID: 02273408
